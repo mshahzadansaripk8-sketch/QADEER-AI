@@ -11,7 +11,7 @@
 
 -------
 
-[![QADEER-XD](https://raw.githubusercontent.com/QadeerXTech/QADEER-XD/main/Qadeer/mr.svg)](https://whatsapp.com/channel/0029VbAkAEhCRs1g8MmyEJ2K)
+[![QADEER-XD](https://raw.githubusercontent.com/QadeerXTech/QADEER-XD/main/lib/mr.svg)](https://whatsapp.com/channel/0029VbAkAEhCRs1g8MmyEJ2K)
 
 
 -------------
